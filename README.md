@@ -1,4 +1,4 @@
-# revangejs
+# Estrela
 Another frontend framework with reactivity in mind.
 
-Moved to https://github.com/revangejs/revange
+Moved to https://github.com/estrelajs/estrela
